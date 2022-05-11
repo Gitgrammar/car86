@@ -542,134 +542,6 @@ WheelCollider:
     m_AsymptoteValue: 0.75
     m_Stiffness: 1
   m_Enabled: 1
---- !u!114 &4757823269591097278
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4872000149389144390}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c62479c3465024b48b42983b1b2eeaaf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &4758100055973779310
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4871473949474965356}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 459cec5b068041e44a60a6e3b6abb0eb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &4758230451423119986
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4871118368754003848}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c62479c3465024b48b42983b1b2eeaaf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &4758280101287166056
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4871925796798097698}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c62479c3465024b48b42983b1b2eeaaf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &4758282422708601526
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4871421813000563770}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9ec1e45165d1f2544bff59f5a80db8ab, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &4758374465829981124
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4871336377807426746}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c62479c3465024b48b42983b1b2eeaaf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &4758528600315922024
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4871473949474965356}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9ec1e45165d1f2544bff59f5a80db8ab, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &4758613946221929224
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4871365953422963640}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9ec1e45165d1f2544bff59f5a80db8ab, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &4758816809094627822
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4871065129289516260}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9ec1e45165d1f2544bff59f5a80db8ab, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &4758846252770426320
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4871421813000563770}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 459cec5b068041e44a60a6e3b6abb0eb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!137 &4789491625783508590
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 0
@@ -1246,7 +1118,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4871648587268824286}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4868226389312850436}
@@ -2374,7 +2246,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4868611548245922612}
-  - component: {fileID: 4758816809094627822}
   m_Layer: 0
   m_Name: SportCar20_BrakeRearLeft
   m_TagString: Untagged
@@ -2501,7 +2372,6 @@ GameObject:
   - component: {fileID: 4868652620127485888}
   - component: {fileID: 4726070180708286602}
   - component: {fileID: 4807879750802943050}
-  - component: {fileID: 4758230451423119986}
   m_Layer: 0
   m_Name: SportCar20_WheelHubRearRight
   m_TagString: Untagged
@@ -2680,7 +2550,6 @@ GameObject:
   - component: {fileID: 4868609916525699022}
   - component: {fileID: 4726402450350732458}
   - component: {fileID: 4808649670134748898}
-  - component: {fileID: 4758374465829981124}
   m_Layer: 0
   m_Name: SportCar20_WheelHubFrontLeft
   m_TagString: Untagged
@@ -2713,7 +2582,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4868330832095041608}
-  - component: {fileID: 4758613946221929224}
   m_Layer: 0
   m_Name: SportCar20_BrakeRearRight
   m_TagString: Untagged
@@ -2784,8 +2652,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4868371170660895152}
-  - component: {fileID: 4758282422708601526}
-  - component: {fileID: 4758846252770426320}
   m_Layer: 0
   m_Name: SportCar20_BrakeFrontLeft
   m_TagString: Untagged
@@ -2838,8 +2704,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4867843568502758068}
-  - component: {fileID: 4758528600315922024}
-  - component: {fileID: 4758100055973779310}
   m_Layer: 0
   m_Name: SportCar20_BrakeFrontRight
   m_TagString: Untagged
@@ -3176,7 +3040,6 @@ GameObject:
   - component: {fileID: 4868237802262408876}
   - component: {fileID: 4725747138963345642}
   - component: {fileID: 4808638849215625190}
-  - component: {fileID: 4758280101287166056}
   m_Layer: 0
   m_Name: SportCar20_WheelHubRearLeft
   m_TagString: Untagged
@@ -3231,7 +3094,6 @@ GameObject:
   - component: {fileID: 4868893440930366842}
   - component: {fileID: 4726231362559574982}
   - component: {fileID: 4807973407063067076}
-  - component: {fileID: 4757823269591097278}
   m_Layer: 0
   m_Name: SportCar20_WheelHubFrontRight
   m_TagString: Untagged
