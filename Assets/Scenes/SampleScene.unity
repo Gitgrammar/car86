@@ -2897,6 +2897,7 @@ GameObject:
   - component: {fileID: 4867861808370638106}
   - component: {fileID: 4703169774938607692}
   - component: {fileID: 4854559380861258746}
+  - component: {fileID: 4871648587268824287}
   m_Layer: 0
   m_Name: SportCar20_Driver_EU
   m_TagString: Player
@@ -2904,6 +2905,29 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &4871648587268824287
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4871648587268824286}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fda93775adc34a5dae005cb2a67d8bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  axleInfos:
+  - leftWheel: {fileID: 4726402450350732458}
+    rightWheel: {fileID: 4726231362559574982}
+    motor: 0
+    steering: 1
+  - leftWheel: {fileID: 4725747138963345642}
+    rightWheel: {fileID: 4726070180708286602}
+    motor: 1
+    steering: 0
+  maxMotorTorque: 800
+  maxSteeringAngle: 35
 --- !u!1 &4871650557511641036
 GameObject:
   m_ObjectHideFlags: 0
